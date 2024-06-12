@@ -1,2 +1,2 @@
 # FlashDetecttion
-This is a python project that identifies the flashy parts in a video and return the timeline of the flashy parts.
+A python project that prevents epileptic seizures by informing the timelines of the flashing parts in prior.
